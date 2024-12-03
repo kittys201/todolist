@@ -11,7 +11,6 @@ A simple and efficient Todo List application built with Java, Jetty, and styled 
 The application provides essential features including:
 - Adding new tasks
 - Viewing all tasks
-- Marking tasks as completed
 - Deleting tasks
 
 ---
@@ -101,8 +100,7 @@ Visit [http://localhost:8080](http://localhost:8080)
 1. Visit the Todo List application.
 2. Enter a new task in the input field.
 3. View the list of tasks.
-4. Mark tasks as completed or delete them.
-5. Use the responsive interface on any device.
+4. Use the responsive interface on any device.
 
 ---
 
@@ -120,7 +118,6 @@ Visit [http://localhost:8080](http://localhost:8080)
 ### Task Management
 - Add new tasks with a simple input field.
 - View all tasks in a list format.
-- Mark tasks as completed with a toggle button.
 - Delete tasks with a delete button.
 
 ### UI/UX
