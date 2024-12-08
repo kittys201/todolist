@@ -4,9 +4,9 @@
 ## Overview
 A simple and efficient Todo List application built with Java, Jetty, and styled with Tailwind CSS. This application allows users to add, view, and delete tasks, providing a clean and intuitive interface for managing daily tasks.
 
-[Live Demo](#)  
+ 
 [GitHub Repository](https://github.com/kittys201/todolist)  
-[Video Demo](#)
+[Video Demo](https://youtu.be/Rta8cX9ARVM)
 
 The application provides essential features including:
 - Adding new tasks
